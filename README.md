@@ -4,5 +4,5 @@
 # How to use
 Add ```Using SheepYhangCN.WindowCenter;``` at the head of your C# file
 
-Use ```WindowCenter.Set();``` to center window position
+Use ```WindowCenter.Set();``` to center window position<br>
 Use ```WindowCenter.Get(DisplayServer.ScreenGetUsableRect(),DisplayServer.WindowGetSize());``` to get the position Vector2I
